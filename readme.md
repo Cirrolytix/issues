@@ -21,3 +21,6 @@ More details about this document:
 * Help Wanted
 * Documentation
 
+# Further issues
+
+Something to think about 
