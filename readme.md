@@ -13,3 +13,11 @@ More details about this document:
 * Address the issue
 * Commit
 * Do a pull request "Closing the issue"
+
+# Examples of issues
+
+* Question
+* Bug
+* Help Wanted
+* Documentation
+
