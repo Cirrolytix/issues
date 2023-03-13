@@ -4,9 +4,6 @@ This repository is full of issues.
 
 # Purpose of this document
 
-<<<<<<< Updated upstream
-This document is supposed to contain a lot of issues. 
-=======
 This document is supposed to contain a lot of issues. 
 
 More details about this document: 
@@ -23,4 +20,4 @@ More details about this document:
 * Bug
 * Help Wanted
 * Documentation
->>>>>>> Stashed changes
+
